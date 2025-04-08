@@ -21,5 +21,5 @@ This is a basic web application built using Django as part of a recruitment assi
 ## 📦 Installation
 
 1. **Clone the repo**  
-   ```bash
+   git clone https://github.com/ankitrrock/quora_clone
    
