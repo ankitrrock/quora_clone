@@ -9,7 +9,7 @@ This is a basic web application built using Django as part of a recruitment assi
 - ✅ View questions by others
 - ✅ Answer questions
 - ✅ Like answers posted by other users
-- ✅ Simple HTML using Django Forms (no CSS/styling focus)
+- ✅ Simple HTML using Django Forms 
 
 ## 🛠 Tech Stack
 
@@ -22,5 +22,4 @@ This is a basic web application built using Django as part of a recruitment assi
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/quora-clone.git
-   cd quora-clone
+   
